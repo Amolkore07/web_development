@@ -1,7 +1,7 @@
 function wordbank(mynoun, myadjective, myverb, myadverb){
   var result="";
   result ="the man was walking in the jungle then"+ " " + myadjective +" " +mynoun +" "+ myverb +" on him he tried to run" +" "+ myadverb +" but fell to the ground";
-  return result;
+  return results;
 
 }
 console.log(wordbank("lion","big", "attacked","quickly" ));
