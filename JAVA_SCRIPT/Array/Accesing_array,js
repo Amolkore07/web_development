@@ -1,0 +1,6 @@
+var arraynam =[20,30,40,50]
+var data = arraynam[0,2]
+arraynam[arraynam.length-1]=90; //now last will be 90
+var data1 = arraynam[arraynam.length - 1]
+console.log(data)/
+console.log(data1)
